@@ -1,0 +1,57 @@
+Medicare, medical channeling center management system provides certain automations for
+many important daily processes in a channeling center. The purpose of the project is to
+develop Medical Channeling Center Management System which is user friendly, simple,
+fast, and cost effective.
+
+
+-----------------------------Medical Chanelling Center-----------------------------------
+
+1. Copy the folder Group23_DatabaseProject to C:\xampp\htdocs
+
+2. Open the browser and give 'localhost/Group23_DatabaseProject' as the Address in Address bar.
+
+3. Then It will display the Home Page. There are 5 tabs in the header.
+	Home - Display the Home page / Go back to Home Page.
+	Doctors - Display the available Doctors in the Channeling Center.
+	**Medical Sessions - Display the available Dates and Times that Doctor visit medical center.
+	About Us - Brief Description about the Medical Channelling Center.
+	Contact - Contact details of the medical center.
+
+4. Users need Login to their profiles thereafter. If they don't have an account need to get Register and Create an account. (Login and Register buttons are displayed in the top right corner of Home page.
+
+5. Users need to enter their Mobile number as the username and the passward they created when got registered.
+
+According to the User types(Admin/Doctor/Patient) functionalities of the user profiles are as below.
+
+------------------------- Patient Profile -----------------------------------
+
+Main Page of the Patient Profile has 4 tabs on the header
+
+Home - Return to home Page of Patient Profile
+My Profile - Display the Personal Details of the Patient with His/her PatientID which will be needed when making appoinments
+History - Display the SessionIDs of the Medical Sessions that he has made appoinments for.
+Make an Appoinment - User can make appoinment giving the PatientID(which can be find in the My Profile) and SessionID(Which is in the Medical Session tab of Home Page)
+
+
+------------------------- Doctor Profile -----------------------------------
+
+Main Page of the Doctor Profile has 3 tabs on the header.
+
+Home - Doctors can see the number of patients and the patient details who have made appoinments for him searching by the date.
+My Profile - Display the Personal Details of the Doctor with His/her Doctor ID.
+***Patient's Details - Display the details of Relevant Patients who has made appoinments for him searching by their PatientIDs
+
+
+------------------------- Admin Profile -----------------------------------
+
+Main Page of the Admin Profile has 6 tabs on the header.
+
+Home - Return to home Page of Admin Profile
+Doctor - Can Search, Update and Delete the records of the Doctors, searching by DoctorID
+Nurse - Can Search, Update and Delete and Add the records of the Nurses, searching by NurseID
+Patient - Can Search, Update and Delete the records of the Doctors, searching by PatientID
+Medical Session - Can Create upcomming Medical Sessions mentioning the DoctorID,SessionID,NurseID, Session Date and Time
+Payments - Can record the payments of the Patients giving the relevant PatientID, SessionID and and whether the payment is completed.
+
+
+
