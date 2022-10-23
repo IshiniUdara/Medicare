@@ -18,14 +18,14 @@ fast, and cost effective.
 
 Build a database management system such that,
 • Patients can search for available doctors who are visiting to the channeling center
-on a particular specialty and a day
-• Patients can make an appointment to any available doctor by themselves
-• Patients can cancel an appointment if he is unable to come.
+on a particular specialty and a day\
+• Patients can make an appointment to any available doctor by themselves\
+• Patients can cancel an appointment if he is unable to come\
 • Doctor who are visiting can see the number of patients he has for the medical
 session and the room number he wants to visit to check the patients on a
-selected day
+selected day\
 • An administrator of the center can appoint the nurses available to each medical
-session
+session\
 
 # Users
 
@@ -46,4 +46,4 @@ the patients get a chance to make appointments in anytime and in anywhere and ca
 it if he is unable to come. For doctors all the requested information can be received
 online quickly as well.)
 • Staff management (Administrator can analyze available staff and available rooms for
-medical sessions )
+medical sessions)
