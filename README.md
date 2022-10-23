@@ -16,7 +16,7 @@ fast, and cost effective.
 
 # Purpose
 
-Build a database management system such that,
+Build a database management system such that,\
 • Patients can search for available doctors who are visiting to the channeling center
 on a particular specialty and a day\
 • Patients can make an appointment to any available doctor by themselves\
@@ -25,25 +25,25 @@ on a particular specialty and a day\
 session and the room number he wants to visit to check the patients on a
 selected day\
 • An administrator of the center can appoint the nurses available to each medical
-session\
+session
 
 # Users
 
-• Patients
-• Doctors
+• Patients\
+• Doctors\
 • Administrator
 
 # Advantages
 • Improved Processes (Automation helps to optimize the user experience. Patients,
-Doctors, medical center authorities interact online and exchange information)
+Doctors, medical center authorities interact online and exchange information)\
 • Patient self-service (Patients have their own freedom to search for doctors and make
-appointments by themselves)
+appointments by themselves)\
 • Less time consuming (As the services and interactions being planned with greater
 precision, it saves the time of all the system users and provides them with up-to-date
-information.
+information.\
 • Better customer experience (Since the clinic management system is patient-oriented,
 the patients get a chance to make appointments in anytime and in anywhere and cancel
 it if he is unable to come. For doctors all the requested information can be received
-online quickly as well.)
+online quickly as well.)\
 • Staff management (Administrator can analyze available staff and available rooms for
 medical sessions)
