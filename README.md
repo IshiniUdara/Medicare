@@ -1,14 +1,14 @@
 # Medicare
 Medicare, the medical channeling center management system provides certain automations for many important daily processes in a channeling center. The purpose of the project is to develop Medical Channeling Center Management System which is user friendly, simple, fast, and cost effective.
 
-Overview
+# Overview
 In most of Medical channeling centers in Sri Lanka, they use a manual system to channel
 a doctor either by visiting the channeling center or giving a phone call to the center. And
 there is no any chance for doctors to check how many patients he has got for a medical
 session in respective channeling centers other than calling the receptionist of the
 channeling centers. Most of the time their hotline numbers are hard to reach in case of
 an emergency. And traditional systems have to deal with lot of paperwork and it need
-more employees for the organization to run daily processes.
+more employees for the organization to run daily processes.\
 Medicare, the medical channeling center management system provides certain automations for
 many important daily processes in a channeling center. The purpose of the project is to
 develop Medical Channeling Center Management System which is user friendly, simple,
