@@ -14,7 +14,7 @@ many important daily processes in a channeling center. The purpose of the projec
 develop Medical Channeling Center Management System which is user friendly, simple,
 fast, and cost effective.
 
-Purpose
+# Purpose
 
 Build a database management system such that,
 • Patients can search for available doctors who are visiting to the channeling center
@@ -27,12 +27,13 @@ selected day
 • An administrator of the center can appoint the nurses available to each medical
 session
 
-Users
+# Users
+
 • Patients
 • Doctors
 • Administrator
 
-Advantages
+# Advantages
 • Improved Processes (Automation helps to optimize the user experience. Patients,
 Doctors, medical center authorities interact online and exchange information)
 • Patient self-service (Patients have their own freedom to search for doctors and make
