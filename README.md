@@ -46,4 +46,4 @@ the patients get a chance to make appointments in anytime and in anywhere and ca
 it if he is unable to come. For doctors all the requested information can be received
 online quickly as well.)
 • Staff management (Administrator can analyze available staff and available rooms for
-medical sessions)
+medical sessions )
